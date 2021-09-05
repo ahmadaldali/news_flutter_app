@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
             listener: (context, state) {},
             builder: (context, state) {
               return MaterialApp(
-                title: 'news App',
+                title: 'news App1111',
                 debugShowCheckedModeBanner: false,
                 themeMode: newsCubit.get(context).tm,
                 theme: ThemeData(
